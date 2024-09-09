@@ -1,0 +1,7 @@
+C:\Users\vitor\source\repos\caQuestão2\caQuestão2\bin\Debug\caQuestão2.exe.config
+C:\Users\vitor\source\repos\caQuestão2\caQuestão2\bin\Debug\caQuestão2.exe
+C:\Users\vitor\source\repos\caQuestão2\caQuestão2\bin\Debug\caQuestão2.pdb
+C:\Users\vitor\source\repos\caQuestão2\caQuestão2\obj\Debug\caQuestão2.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\caQuestão2\caQuestão2\obj\Debug\caQuestão2.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\caQuestão2\caQuestão2\obj\Debug\caQuestão2.exe
+C:\Users\vitor\source\repos\caQuestão2\caQuestão2\obj\Debug\caQuestão2.pdb
